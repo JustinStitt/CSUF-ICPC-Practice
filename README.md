@@ -1,4 +1,12 @@
-# CSUF-ICPC-Practice
+## CSUF-ICPC-Practice
+---
+<img src="https://acmcsuf.com/assets/badges/general.svg" width="100">
+
+<img src="./media/icpc-logo.png" width="225">
+
+---
+
+
 Some practice from the ICPC teams at CSUF.
 
 Solved:
