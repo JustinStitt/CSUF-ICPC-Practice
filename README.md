@@ -1,8 +1,11 @@
 ## CSUF-ICPC-Practice
 ---
+<div>
 <img src="https://acmcsuf.com/assets/badges/general.svg" width="100">
 
-<img src="./media/icpc-logo.png" width="225">
+<img src="./media/icpc-logo.png" width="255">
+</div>
+
 
 ---
 
