@@ -16,6 +16,8 @@ Solved:
 * 8178-Latin-Squares (Justin, py3, cpp)
 * Kitten-On-A-Tree   (Justin, py3)
 * stopwatch          (Justin, cpp)
+* forced choice      (Charlie, Justin, py)
+* vaccine efficacy   (Charlie, Justin, py)
 
 Resources:
 * [ICPC Archives w/ Judge](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=9)
