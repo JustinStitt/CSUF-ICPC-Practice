@@ -16,9 +16,13 @@ Solved:
 * 8178-Latin-Squares (Justin, py3, cpp)
 * Kitten-On-A-Tree   (Justin, py3)
 * stopwatch          (Justin, cpp)
-* forced choice      (Charlie, Justin, py)
-* vaccine efficacy   (Charlie, Justin, py)
+* forced choice      (Charlie, Justin, py3)
+* vaccine efficacy   (Charlie, Justin, py3)
+* permits-in-kafka-town (Justin, py3)
+* russian-multiplication (Justin, py3)
+
 
 Resources:
 * [ICPC Archives w/ Judge](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=9)
 * [Kattis UCLA ICPC Beginner Track++ Session 3](https://open.kattis.com/contests/pg9g3r)
+* [ICPC 2021 Warm-up](http://socalcontest.org/Warmup-2021-2022.pdf)
