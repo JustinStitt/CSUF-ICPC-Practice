@@ -20,6 +20,7 @@ Solved:
 * vaccine efficacy   (Charlie, Justin, py3)
 * permits-in-kafka-town (Justin, py3)
 * russian-multiplication (Justin, py3)
+* subprime (Justin, Yao, py3, cpp)
 
 
 Resources:
