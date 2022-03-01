@@ -21,10 +21,8 @@ def solve(i, j, k, primes):
 primes = sieve()
 
 for line in sys.stdin:
-    line = line.rstrip().split(' ')
-    i = int(line[0])
-    j = int(line[1])
-    k = line[2]
+    (i, j) = [int(x) for x in line.split(' ')]
+    k = input()
 
 
     res = solve(i, j, k, primes)
