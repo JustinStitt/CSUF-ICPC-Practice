@@ -8,6 +8,7 @@ def isPrime(n: int):
             return False
     return True
 
+
 def solve(i: int, j: int, k, primes):
 	total = 0
 	for x in range(i-1, j):
